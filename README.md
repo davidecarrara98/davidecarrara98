@@ -1,9 +1,18 @@
-### Hi there 👋
+### Hi there, nice to meet you! 👋
 
+I'm Davide Carrara, a master student in `Mathematical Engineering` at Politecnico di Milano, following the `Statistical Learning` track. My studies are currently focused on Machine Learning, Data Science and whatever lies within. 
+
+
+<br />
+<p align="center" style="font-weight:bold"> :school: <b> My Education </b> <p>
+
+---
+- :gear: Master of Science in Mathematical Engineering, Statistical Learning at Politecnico di Milano
+- :sweden: Erasmus semester at Chalmers University, Göteborg
+- :mortar_board: Bachelor of Science in Mathematical Engineering at Politecnico di Milano
 <!--
 **davidecarrara98/davidecarrara98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
