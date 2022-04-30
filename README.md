@@ -4,22 +4,34 @@ I'm Davide Carrara, a master student in `Mathematical Engineering` at Politecnic
 
 
 <br />
-<p align="center" style="font-weight:bold"> :school: <b> My Education </b> <p>
+<p align="center" style="font-weight:bold"> :student: <b> My Education </b> :student: <p>
 
 ---
-- :gear: Master of Science in Mathematical Engineering, Statistical Learning at Politecnico di Milano
-- :sweden: Erasmus semester at Chalmers University, Göteborg
-- :mortar_board: Bachelor of Science in Mathematical Engineering at Politecnico di Milano
-<!--
-**davidecarrara98/davidecarrara98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚙️ Master of Science in Mathematical Engineering, Statistical Learning at Politecnico di Milano
+- 🌍 Erasmus semester at Chalmers University, Göteborg
+- 🎓 Bachelor of Science in Mathematical Engineering at Politecnico di Milano
+  
+<br />
+<p align="center" style="font-weight:bold"> 🔨 <b> Some Projects </b> 🔨 <p>
 
+---
+- 🚗 [Multi Object Tracking in Complex Urban Scenarios](https://github.com/davidecarrara98/Multi-Object-Tracking-in-Complex-Urban-Scenarios) : a project in collaboration with `Viscando AB`
+- 🌐 [Online Product Advertising and Pricing with Context Generation](https://github.com/davidecarrara98/Dia_Project)
+- 🧠 Deep Learning Challenges <!-- CARICARE CODICE E PRESENTAZIONE -->
+- 🩸 Risk Stratification for patients Diagnosed by MDS <!-- CARICARE CODICE E PRESENTAZIONE -->
+- 💼 [Statistical Analysis of Occupational Data of Mathematical Engineers](https://github.com/davidecarrara98/Progetto-StatAIM)
+  
+<br />
+<p align="center" style="font-weight:bold"> :adult: <b> About Me </b> :adult: <p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+- :bust_in_silhouette: Curious, voracious reader, art lover
+- 📖 One book: `Les Misérables` - Victor Hugo
+- 🎧 One song: `Romeo and Juliet` - Dire Straits
+- :fountain_pen: One word: ***Timshel***
+
+:loudspeaker: **Contacts:**
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davide-carrara/)
+- `davide.carrara98@yahoo.it`
+
+ 
