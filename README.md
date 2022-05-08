@@ -8,7 +8,7 @@ I'm Davide Carrara, a master student in `Mathematical Engineering` at Politecnic
 
 ---
 - ⚙️ Master of Science in Mathematical Engineering, Statistical Learning at Politecnico di Milano
-- 🌍 :🇸🇪: 🇸🇪 Erasmus semester at Chalmers University, Göteborg
+- 🌍 Erasmus semester at Chalmers University, Göteborg
 - 🎓 Bachelor of Science in Mathematical Engineering at Politecnico di Milano
   
 <br />
