@@ -15,6 +15,7 @@ I'm Davide Carrara, a master student in `Mathematical Engineering` at Politecnic
 <p align="center" style="font-weight:bold"> 🔨 <b> Some Projects </b> 🔨 <p>
 
 ---
+- :anatomical_heart:[Anti-Tachycardia Pacing](https://github.com/davidecarrara98/Anti-Tachycardia-Pacing)
 - 🚗 [Multi Object Tracking in Complex Urban Scenarios](https://github.com/davidecarrara98/Multi-Object-Tracking-in-Complex-Urban-Scenarios) : a project in collaboration with `Viscando AB`
 - 🌐 [Online Product Advertising and Pricing with Context Generation](https://github.com/davidecarrara98/Dia_Project)
 - 🧠 Deep Learning Challenges <!-- CARICARE CODICE E PRESENTAZIONE -->
