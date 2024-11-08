@@ -1,15 +1,16 @@
 ### Hi there, nice to meet you! 👋
 
-I'm Davide Carrara, a master student in `Mathematical Engineering` at Politecnico di Milano, following the `Statistical Learning` track. My studies are currently focused on Machine Learning, Data Science and whatever lies within. 
+I'm Davide Carrara, a PhD student in Mathematical Models and Methods for Engineering at Politecnico di Milano. Before that, I got a MSc in Mathematical Engineering at PoliMi and I was a Machine Learning intern at Bang & Olufsen A/S. My studies are currently focused on Machine Learning, Data Science and whatever lies within. 
 
 
 <br />
 <p align="center" style="font-weight:bold"> :student: <b> My Education </b> :student: <p>
 
 ---
-- ⚙️ Master of Science in Mathematical Engineering, Statistical Learning at Politecnico di Milano
+- :roller_coaster: PhD student in Mathematical Models and Methods for Engineering, Politecnico di Milano
+- :man_student: Master of Science in Mathematical Engineering, Statistical Learning at Politecnico di Milano
 - 🌍 Erasmus semester at Chalmers University, Göteborg
-- 🎓 Bachelor of Science in Mathematical Engineering at Politecnico di Milano
+- :boy: Bachelor of Science in Mathematical Engineering at Politecnico di Milano
   
 <br />
 <p align="center" style="font-weight:bold"> 🔨 <b> Some Projects </b> 🔨 <p>
